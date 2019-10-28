@@ -1,6 +1,6 @@
 # Open-Lab-01.02 (2 XP)
 
-1. Clone this repository to your GitHub account.
+1. Fork this repository to your GitHub account.
 2. Open solution file in Visual Studio.
 3. Open file `Exercise.cs`
 4. Implement method `Sum(int a, int b)` so that it takes input parameters and returns their sum.
